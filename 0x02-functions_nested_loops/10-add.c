@@ -8,7 +8,7 @@
  * Return: addition of a and b
  */
 int main()
-int add(int a, int b)
+int add(int a, int b);
 {
 	int a, b, c;
 
