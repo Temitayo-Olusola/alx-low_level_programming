@@ -8,6 +8,11 @@
  */
 int add(int a, int b)
 {
+	int a = printf("Enter the value of a: ");
+	scanf("%d", &a);
+	int b = printf("Enter the value of b: ");
+	scanf("%d", &b);
+
 	int c;
 
 	c = a + b;
