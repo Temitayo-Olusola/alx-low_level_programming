@@ -12,10 +12,9 @@ int add(int a, int b)
 {
 	int a, b, c;
 
-	printf("\n Enter the two numbers: ");
+	printf("Enter the two numbers: ");
 	scanf("%d %d", &a, &b);
 
 	c = add(a, b);
-
 	return (c);
 }
