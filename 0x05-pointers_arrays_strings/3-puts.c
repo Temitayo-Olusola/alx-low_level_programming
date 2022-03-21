@@ -1,6 +1,7 @@
 #include "main.h"
 
-/**_puts - puts string
+/**
+ * _puts - puts string
  * @str: string
  * Return: void
  */
