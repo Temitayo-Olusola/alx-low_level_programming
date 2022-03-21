@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef _MAIN_H_
+#define _MAIN_H_
 
 void reset_to_98(int *n);
 void swap_int(int *a, int *b);
@@ -10,6 +10,6 @@ void rev_string(char *s);
 void puts2(char *str);
 void puts_half(char *str);
 void print_array(int *a, int *b);
-char *strcpy(char *dest, char *src);
+char *_strcpy(char *dest, char *src);
 
-#endif /* MAIN_H
+#endif 
