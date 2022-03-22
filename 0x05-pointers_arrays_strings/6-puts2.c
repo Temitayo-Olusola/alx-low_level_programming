@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts2 - prints alternating characters of a string
+ * puts2 - prints alternating chars of a string
  * @str: string
  * Return: void
  */
