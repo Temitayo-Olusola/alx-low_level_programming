@@ -22,7 +22,7 @@ char *strstr(char *haystack, char *needle)
 				break;
 		}
 		if (!needle[j])
-			retun (&haystack[i]);
+			return (&haystack[i]);
 	}
 	return (NULL);
 }
