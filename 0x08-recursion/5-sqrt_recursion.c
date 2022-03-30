@@ -2,7 +2,7 @@
 
 /**
  * _sqrt_recursion - returns the natural squareroot of a number
- * @n: number to calculate square root from
+ * @n: number to get square root from
  *
  * Result: the actual square root
  */
