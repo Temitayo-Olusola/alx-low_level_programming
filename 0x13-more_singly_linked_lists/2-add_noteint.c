@@ -1,6 +1,6 @@
 #include "lists.h"
 /**
- * add_noteint - adds a new node at the beginning of a linked list
+ * *add_noteint - adds a new node at the beginning of a linked list
  * @head: pointer to the first nodee in the list
  * @n: data to insert in that new mode
  *
